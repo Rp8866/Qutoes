@@ -1,0 +1,19 @@
+{
+    "name": "rohit/quotes",
+    "description": "Get Lates Quotes",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rohit\\Quotes\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rohit Pal",
+            "email": "rpal.techark@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
