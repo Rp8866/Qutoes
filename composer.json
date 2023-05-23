@@ -1,11 +1,11 @@
 {
-    "name": "rp/quotes",
+    "name": "rp8866/quotes",
     "description": "Get Lates Quotes",
     "type": "project",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Rp\\Quotes\\": "src/"
+            "Rp8866\\Quotes\\": "src/"
         }
     },
     "authors": [
