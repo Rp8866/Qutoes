@@ -3,11 +3,10 @@
 </div>
 
 <p align="center">
-  <img src="https://badgen.net/badge/hello/world/red?icon=twitter" alt="twitter" width="200">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
+  <img src="https://badgen.net/badge/Stable/v0.0.1/red" >
+  <img src="https://badgen.net/badge/Build/Rp8866/blue" >
+  <img src="https://badgen.net/badge/License/mit/green" >
+  <img src="https://badgen.net/badge/Package/library/yellow" >
 </p>
 
 ## About Qutoes Package
