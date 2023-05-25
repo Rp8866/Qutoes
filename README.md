@@ -5,8 +5,8 @@
 <p align="center">
   <img src="https://badgen.net/badge/Stable/v0.0.1/red" >
   <img src="https://badgen.net/badge/Build/Rp8866/blue" >
-  <img src="https://badgen.net/badge/License/mit/green" >
   <img src="https://badgen.net/badge/Package/library/yellow" >
+  <img src="https://badgen.net/badge/License/mit/green" >
 </p>
 
 ## About Qutoes Package
